@@ -14,71 +14,83 @@ body {
 	position:absolute;
 	top: 50% ;
 	left: 70%;
+	height: 5%;
 	z-index:2;
 }
 #t2 {
 	position:absolute;
 	top: 26% ;
 	left: 80%;
+	height: 5%;
 	z-index:2;
 }
 #t3 {
 	position:absolute;
 	top: 65% ;
 	left: 72%;
+	height: 5%;
 	z-index:2;
 }
 #t4 {
 	position:absolute;
 	top: 10% ;
 	left: 12%;
+	height: 5%;
 	z-index:2;
 }
 #t5 {
 	position:absolute;
 	top: 76% ;
 	left: 37%;
+	height: 5%;
 	z-index:2;
 }
 #t6 {
 	position:absolute;
 	top: 95% ;
 	left: 22%;
+	height: 5%;
 	z-index:2;
 }
 #t7 {
 	position:absolute;
 	top: 42% ;
 	left: 20%;
+	height: 5%;
 	z-index:2;
 }
 #t8 {
 	position:absolute;
 	top: 26% ;
 	left: 30%;
+	height: 5%;
 	z-index:2;
 }
 #t9 {
 	position:absolute;
 	top: 65% ;
 	left: 55%;
+	height: 5%;
 	z-index:2;
 }
 #c1 {
 	position:absolute;
 	top: 85% ;
 	left: 10%;
+	height: 5%;
 	z-index:1;
 }
 #c2 {
 	position:absolute;
 	top: 55% ;
 	left: 40%;
+	height: 5%;
 	z-index:1;
 }
 #c3 {
 	position:absolute;
 	top: 60% ;
 	left: 66%;
+	height: 5%;
 	z-index:1;
 }
