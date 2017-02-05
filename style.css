@@ -7,7 +7,8 @@ body {
 	left: 0;
 	width: 100%;
 	text-align: center;
-	display: none;
+	font-size: 400%;
+	color:#A349A4;
 	z-index:10;
 }
 #t1 {
